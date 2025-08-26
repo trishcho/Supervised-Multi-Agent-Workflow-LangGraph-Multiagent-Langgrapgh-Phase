@@ -6,6 +6,8 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python)
 
 
+<img width="1412" height="564" alt="Image" src="https://github.com/user-attachments/assets/f0dbe188-3de7-4c40-9201-01b276f59f68" />
+
 <img width="514" height="521" alt="Image" src="https://github.com/user-attachments/assets/05fe3685-cf4b-4109-8511-eb6b765ea8c5" />
 
 A supervised **multi-agent** system built with **LangGraph** that routes user requests through specialized agents:

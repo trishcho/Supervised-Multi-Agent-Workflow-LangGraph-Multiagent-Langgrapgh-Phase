@@ -5,6 +5,9 @@
 ![Tavily](https://img.shields.io/badge/Tavily-Search-orange)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python)
 
+
+<img width="514" height="521" alt="Image" src="https://github.com/user-attachments/assets/05fe3685-cf4b-4109-8511-eb6b765ea8c5" />
+
 A supervised **multi-agent** system built with **LangGraph** that routes user requests through specialized agents:
 - **Supervisor** (routing + task typing)
 - **Researcher** (web facts via **Tavily**)
